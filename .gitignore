@@ -3,7 +3,10 @@
 server-management-stock.pem
 
 # Ignore .sh files
+*/*.sh
 *.sh
+/*.sh
+
 connect_server.sh
 
 
