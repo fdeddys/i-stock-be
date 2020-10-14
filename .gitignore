@@ -1,7 +1,10 @@
-connect_server.sh
+
 
 server-management-stock.pem
 
+# Ignore .sh files
 *.sh
+connect_server.sh
+
 
 readme-private.txt
