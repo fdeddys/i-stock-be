@@ -2,4 +2,6 @@ connect_server.sh
 
 server-management-stock.pem
 
+start.sh
+
 readme-private.txt
